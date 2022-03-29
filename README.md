@@ -9,6 +9,11 @@ Exploratory analysis to discover and investigate manipulable factors to optimize
 From 2010- 2016, I managed seven restaurants which assisted in growing my business analytical skills and interpersonal communication skills. While most of the stores were meeting typical sales expectations, there was definitely room for improvement. Through sales analysis, I was able to investigate what the issues were and work towards increasing profit margins by adjusting key features and marketing. 
 From my experience in business management, I hope to help this supermarket brand achieve its optimal growth by finding adjustable variables and suggesting improvements. 
 
+## Data
+
+<img src =
+"Data superstore.png" />
+
 ## Analysis and Dashboards
 
 <a href="https://public.tableau.com/app/profile/kishan.patel2847/viz/SupermarketSalesOptimizationPresentationStory/SuperMarketBusinessAnalysis">Presentation/Full Analysis</a>
