@@ -32,3 +32,16 @@ From my experience in business management, I hope to help this supermarket brand
 ## Summary
 
 
+<img src =
+"Overview.PNG" />
+
+<img src =
+"brand .png" />
+
+<img src =
+"branch.png" />
+
+## Key Take Aways
+
+<img src =
+"key.png" />
